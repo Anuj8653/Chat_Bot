@@ -22,7 +22,7 @@ clearBtn.addEventListener("click",function(){
 document.getElementById("chatBox").innerHTML="";
 });
 
-const API_KEY = "AIzaSyCflUC7CtSPYtexhaivTRpq2n2b24ue-9o";
+const API_KEY = "AIzaSyCT-fkR96SM3avmIkafX7uRNOvgOB0ZZ-M";
 
 async function sendMessage(){
 
